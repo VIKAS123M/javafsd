@@ -1,0 +1,1 @@
+Algorithm utilized - Arraylist, as it is a grea algorithm in java for storing and accessing the strings stored.
